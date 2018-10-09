@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Nick branch 2
-=======
 Nick
 Waldemar
 Karl
->>>>>>> 6e5ba437126fed6f48a7e68752969c99eb83cfb4
+
