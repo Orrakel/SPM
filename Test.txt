@@ -2,4 +2,5 @@
 Waldemar Reger
 Karl Neitmann
 Alexander Nolting
+Sebastian Peltner
 Yannic Döll
