@@ -3,7 +3,7 @@ SPM Projekt
  
 Jira
 
-Docsify - bis nächste Woche fertig
+Docsify - bis nächste Woche fertig ( Lokal installieren )
 
 Remark jayce
 
