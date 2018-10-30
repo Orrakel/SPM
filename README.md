@@ -6,3 +6,5 @@ Jira
 Doxify
 
 Remark jayce
+
+sidebar.md
