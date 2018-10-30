@@ -3,7 +3,7 @@ SPM Projekt
  
 Jira
 
-Doxify - bis nächste Woche fertig
+Docsify - bis nächste Woche fertig
 
 Remark jayce
 
