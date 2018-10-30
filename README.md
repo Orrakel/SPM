@@ -3,8 +3,8 @@ SPM Projekt
  
 Jira
 
-Doxify
+Doxify - bis nächste Woche fertig
 
 Remark jayce
 
-sidebar.md
+sidebar.md - Navigation zwischen den Kapiteln
