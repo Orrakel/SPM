@@ -7,4 +7,4 @@ Docsify - bis nächste Woche fertig
 
 Remark jayce
 
-sidebar.md - Navigation zwischen den Kapiteln
+sidebar.md - Navigation zwischen den Kapiteln ( für die Rote Linie )
