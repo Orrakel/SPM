@@ -1,7 +1,7 @@
 # SPM
 SPM Projekt
 
-https://orrakel.github.io/SPM_Docsi/
+https://orrakel.github.io/SPM_Docsi/ \n
 https://github.com/Orrakel/SPM_Docsi
 
  
