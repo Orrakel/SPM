@@ -9,4 +9,5 @@ Vorgeschlagene Meilensteine angesehen | 27.10 | 10 Min.
 Zusammenfassung von Personalplanung und Personalieneinsatz | 27.10 | 75 Min.
 Zusammenfassung Aufwandabschätzung | 01.11 | 185 Min.
 Zusammenfassung Globale-IT | 01.11 | 120 Min.
-Summe | 27.10 | 700 Min.
+Bespechrechung roter Faden | 04.11 | 90 Min.
+Summe | 27.10 | 790 Min.
