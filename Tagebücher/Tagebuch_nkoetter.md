@@ -8,4 +8,5 @@ Git Projekt im Internet suchen | 24.10. | 180 Min.
 Markdown Template erstellen für das Tagebuch | 26.10. | 120 Min.
 Git Projekt erstellen | 26.10. | 120 Min.
 Git und docsify | 03.11. | 180
-Summe | 26.10. | 730 Min.
+Roter Faden erstellen | 04.11. | 90 Min.
+Summe | 26.10. | 820 Min.
