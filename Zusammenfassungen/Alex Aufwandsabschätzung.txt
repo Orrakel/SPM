@@ -1,0 +1,81 @@
+Ziel der Aufwandsabschätzung eig klar oder? :D
+- kosten abschätzen und zeit
+- Drei verschiedene Arten von Projekten  laaaaammmmeeee
+	Intern 
+	Extern
+	Gemischt 
+Vorraussetztung Kostenplanung
+-Der erste Zweck einer Aufwandsschätzung besteht darin, die Kosten eines IT-Produkts zu
+ermitteln.
+- Unabhängig davon, ob das Produkt gekauft, entwickelt, weiterentwickelt oder
+renoviert wird, verursacht es Kosten. isso
+- Die Aufwandsschätzung setzt wiederum voraus, dass das geplante Produkt möglichst ausführlich
+spezifiziert ist.	
+- Der zweite Zweck einer Aufwandsschätzung ist das Sammeln der Daten für ein Festpreisangebot.
+- Der dritte Zweck einer Aufwandsschätzung ist die Ermittlung der minimalen Projektlaufzeit. Es wird sich auf Kapitel 8 bezogen (Projektkalkulation)
+- Der vierte Zweck einer Aufwandsschätzung ist die Ressourcenbedarfsermittlung.
+- Ein fünfter Zweck der Aufwandsschätzung ist die Bereitstellung eines Maßstabs, mit dem
+man den Projektfortschritt messen kann.
+- Ehe man mit dem eigentlichen Schätzungverfahren beginnt ist es wichtig sich mit beeinflussenden Faktoren zu beschäftigen
+	da diese sehr schwer abzuschätzen sind und manchmal unvorhersehbar ist es nahezu unmöglich eine genaue Aussage über den Aufwand zu treffen
+- Tatsache ist: Es gibt große Schwankungen in der Produktivität, die von der Aufwandsschätzung
+berücksichtigt werden müssten. Hier beschränken wir uns auf fünf Faktoren:
+	Projekttyp
+	Projektarbeitsbedingungne
+	Projektwerkzeuge
+	Projektprozess
+	Projektpersonal
+Je nachdem, welcher IT-Projekt-Typus geschätzt wird, fällt die Aufwandsschätzung anders
+aus.
+	Prototypprojekte
+	Entwicklungsprojekte
+	Weiterentwicklungsprojekte
+	Wartungsprojekte
+	Sanierungsprojekte
+	Migrationsprojekte
+	Integrationsprojekte
+	Installationsprojekte
+Praxistipp:
+Die Zuordnung von IT-Projekten zu den oben genannten Projekttypen ist für die
+Projektplanung und die Aufwandsschätzung unabdingbar. Jeder Projekttyp ist
+anders anzugehen – z. B. wäre eine agile Vorgehensweise für ein starres, festpreisgetriebenes
+Migrationsprojekt völlig unangebracht. Ein Wartungsprojekt wird
+anders geschätzt als ein Entwicklungsprojekt. Beim Wartungsprojekt geht man
+vom Ist aus, beim Entwicklungsprojekt vom Soll.
+Es kommt also darauf an, für jedes Projekt den richtigen planerischen Ansatz zu
+finden.
+- Softwarewerkzeuge spielen eine entscheidende Rolle, vor allem in bestimmten Projekttypen
+wie Sanierungs-, Migrations- und Integrationsprojekten.
+- Die Reife des Projektverfahrens ist auch ein Kriterium für den Erfolg eines Projekts.
+- Der entscheidende Einflussfaktor ist das Personal im Projekt.
+Produktivitätsmessung
+- Gleich, welche Schätzmethode man anwendet, die Voraussetzung für eine Projektaufwandsschätzung
+ist die Produktivität der Mitarbeiter, und zwar nicht irgendwelcher Mitarbeiter
+oder der statistische Durchschnitt aller IT-Projekte in den USA, sondern die Produktivität
+jener Mitarbeiter, die das geplante Projekt ausführen sollten. Es führt daher kein Weg daran
+vorbei, die Produktivität der eigenen Mitarbeiter zu messen.
+Produktivität = Quantität /Aufwand oder Produktivität = (Quantität × Komplexität × Qualität) /Aufwand
+(aber wie will man schon Qualität messen?
+- Die David-Consulting-Gruppe hat Produktivitätsdaten in Function-Points gesammelt. Daran
+ist zu sehen, dass die Produktivität zwischen 9 und 25 Function-Points pro Personenmonat
+variiert. Dies stimmt in etwa mit der Produktivitätsmessung in dem GEOS-Projekt in Wien
+überein, nach der die Function-Point-Produktivität bei 1,1 Function-Points pro Arbeitstag
+lag [BuDe08]. LOL
+Tabelle gibts dazu auf S.12 find ich schwachsinn
+- Ohne Produktivitätsmessung kann Aufwand für geplante Projekte nicht geschätzt werden. MACHT SINN
+- Dies hat zur Folge, dass jedes Unternehmen für jeden seiner Projekttypen die Projektproduktivität
+messen muss.
+- Erklärendes Bild auf Seite 12
+Produktgrößenmessung
+- Schätzung nach
+	Codezeilen
+	Codeanweisungen
+	Function-Points
+	Data-Points
+	Object-Points
+	Use-Case-Points
+	Story-points
+- Codezeilen haben nen Bild Seite 14 SINNVOLL??? glaub nicht
+( Alle schätzungen werden bis S. 26 erklärt MEINER MEINUNG NACH NICHT SINNVOLL ALLE ZU ERKLÄREN
+( Darauf folgt welche sinnvoll für welche Art von Projekten ist FIND IOCH AUCH NICHT SINNVOLL
+- Danach kommt ein riesiges Beispiel für eine Abschätzung wenn wir die durchgehen halten wir 2 wochen lang referat.
