@@ -7,4 +7,6 @@ Besprechung 2| 23.10. |45 Min.
 Zusammenfassung von Buch IT-Projektmanagement | 27.10 | 150 Min.
 Vorgeschlagene Meilensteine angesehen | 27.10 | 10 Min.
 Zusammenfassung von Personalplanung und Personalieneinsatz | 27.10 | 75 Min.
-Summe | 27.10 | 395 Min.
+Zusammenfassung Aufwandabschätzung | 01.11 | 185 Min.
+Zusammenfassung Globale-IT | 01.11 | 120 Min.
+Summe | 27.10 | 700 Min.
