@@ -1,0 +1,68 @@
+-Magisches Dreieck besteht aus Produkt, Kosten und Termine	(Umfeld, Projekt, Projektorganistation)
+-der begriff des Projektmarketings erst in den letzten Jahrzehnt in der Fachliteratur etabliert
+-Projektmarketing gehört zu Produkt
+-"Projektmarketing hat das Ziel den Bekanntheitsgrad eines Projekt zu steigern und dessen Bedeutung zu kommunizieren" zitat Seite 3
+-16.2 Anforderungen an das IT-Projektmarketing :
+	-Art und Charakterisik eines Projekts
+	-Einstellung und Verhalten des Projektumfelds
+	-Zielsetzung des Projekts und seiner spezifischen Erfolgsfaktoren
+-es ist auf die Akzeptanz zu achten da fehlende Akzeptanz zum Misserfolg führen kann, ungeachtet der Qualität des Projektergebnisses
+-Information statt Daten (errinerung an das Bild von Kreienkamp in Useability mit der Rakete wo die temperatur der Dichtringe gezeigt wurde)
+	es wurden Daten vorgezeicht anstatt eine information mit : Ring nicht gut wenn warm ist
+-unvollständige informationen können katastrophale ausmasse erreichen
+-Prjektmarketing entstand aus dem klassischen (Produkt-)Marketing welches das magische Dreieck (Markt, Produkt, Organisation) verfolgte
+	daraus entstand das magische Dreieck des Projektmarketings
+-der bedarf nach Projektmarketing variiert je nach grösse des Projekts
+-Ziele es gibt interne Ziele und externe Ziele
+	Interne Ziele: konzentriert sich auf das Projektteam aber auch auf entscheidungs mitwirkende Management
+			-Mitarbeiter dazu bewegen sich mit den vorgegebenen Projektzielen zu identifizieren um sie zu motivieren
+			-Mitarbeiter durch informationen zu koodienieren z.b einer abteilung rechtzeitig mitteilen das bestimmte arbeitskräfte gebraucht werden
+			-Den Projektfortschritt für alle Teilnehmer transparent gestallten
+			-Eigenmarketing / Motivation der Mitarbeiter z.b Projektteilnehmer loben, leistungen anerkennen und überzeugen bei fehlverhalten)
+			-Beziehungen zum Kundenpflegen gute beziehungen sind wichtig
+			-Das vertrauen untereinander zu festigen z.b durch transparenz
+	Externe Ziele: jeder kann Kunde sein (Unternehmensinterne oder ausstehende spielt keine rolle)
+			-Kundenbindung nach erfolgreichen Abschluss ist es wichtig Kundenkontakte zu halten da dieser ja wieder etwas kaufen könnte
+			-Realisierungskompetenz verkaufen abgeschlossene Projekte vorweisen
+			-Attraktive Darstellung des Projekts nach außen ist sehr wichtig da dies auch das Unternehmen wiederspiegelt
+Projektmarketing massnahmen
+	aktiv = unmittelbar nach Reaktion eeinen Informationsaustausch machen z.b. Online
+	passiv = Informationsaustausch per Brief ,Mail etc
+Anstoss zum Projektaufrtrag (ausgang man hat eine neue Idee)
+	- Presentation der Grundidee und ihres Nutzens für das Unternehmen
+	- Darstellung von nicht qualifizierbaren Nutzenaspekten( Einfluss auf Motarbeitermotivation, Know-how, etc)
+	- Vergleich mit anderen unternehmen
+	- Unterstützung durch Experten und Mitglieder des Managements
+	- Darstellung des wirtschaftlichen Nutzen s und nachhaltiger Wirkung
+	- Realisierung einschließlich Projektabgrenzung
+		Daraus erfolgt dann ein umfangreiches Feedback
+projekt Startphase
+	- aussagekräftiger Projektname
+	- Projektlogo, Motto
+	- Arbeitsrausm für das Projekt
+	- Projektposter/-plakat
+Kick-off meeting: Darin sollen Projektmitarbeiter über ideen, ziele und bisherigen standvertraut gemacht werden (es empfiehlt sich ein warm-up zu machen (kennenlernen) da sich meist nicht alle teilnehmer kennen)
+Projektstart-Workshop: es wird die Produktabwicklung besprochen
+Projektabschluss-Workshop: Wurden ziele eingehalten? Projekt abschließen
+Instrumente des IT-Prjektmarketing: KOMMUNIKATION VIER OHREN MODEL Selbstkundgabe Sachebene Appellebene Beziehungsebene (hab ich mal im Deutschunterricht gelernt)
+Gute visualiesirung des Projektes und Fragen klären ein bild erklärt mehr als tausend worte
+Projektidentität das Projekt sollte eindeutig zu erkennen sein z.b anhand eines Bildes oder eines Logo eines slogans etc
+Networking sein Projekt in den richtigen Netzwerken vermarkten
+
+Copy&Paste
+
+Das Wichtigste – zusammengefasst
+
+??Projekte bewirken Veränderungen – Veränderungen brauchen Akzeptanz.
+	Die Akzeptanz für diese Veränderungen ist der Schlüsselfaktor für den Projekterfolg.
+?? 
+Die Maßnahmen im Projektmarketing orientieren sich am Projekt undam Projektumfeld.
+	Die Anpassung an die projektspezifischen Erfordernisse und an die Einstellung der Umfeldgruppen zum Projekt bestimmt die Wirksamkeit des Projektmarketings.
+?? 
+Wirkungsvolles Projektmarketing erfordert professionelle Kommunikation.
+ 	Überzeugendes und konfliktfreies Präsentieren und Argumentierenschaffen die Grundlage für Akzeptanz.
+??
+Projektmarketing erfordert verkaufsorientierte Fähigkeiten und stellt eine weitere Herausforderung im Projektmanagement dar.
+?? 
+Emotionale Faktoren spielen im Projektmarketing eine besondere Rolle.
+	Eine positive Einstellung/Sympathie zum Projekt hängt unter anderem mit derjeweiligen Gefühlslage zusammen.
