@@ -11,5 +11,5 @@ Besprechung 4| 30.10. |45 Min.
 Git und docsify | 03.11. | 180 Min.
 Roter Faden erstellen | 04.11. | 90 Min.
 Besprechung 4| 06.11. |45 Min.
-Roten Faden vervollständigen| 11.11. |140 Min.
-Summe | 26.10. | 1050 Min.
+Roten Faden vervollständigen| 11.11. |150 Min.
+Summe | 26.10. | 1060 Min.
