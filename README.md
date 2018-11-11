@@ -9,7 +9,6 @@ Jira
 
 Docsify - bis nächste Woche fertig ( Lokal installieren )
 
- ->Probleme mit dem Projekt, veröffentlichung des Docsify Ordners nicht möglich. Grund: ?.
 
 Remark jayce
 
