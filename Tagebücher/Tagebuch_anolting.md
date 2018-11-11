@@ -10,4 +10,5 @@ Zusammenfassung von Personalplanung und Personalieneinsatz | 27.10 | 75 Min.
 Zusammenfassung Aufwandabschätzung | 01.11 | 185 Min.
 Zusammenfassung Globale-IT | 01.11 | 120 Min.
 Bespechrechung roter Faden | 04.11 | 90 Min.
+Besprechung | 11.11 | 150 Min.
 Summe | 27.10 | 790 Min.
