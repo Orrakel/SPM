@@ -9,4 +9,6 @@ Zusammenfassung 2014_Book_IT-Projektmanagement | 25.10. |	240 Min.
 Organisation Meilensteinbeispiele 	|26.10. |	30 Min.
 Zusammenfassung IT-Projektteams Teamentwicklung und Führung 625 - 661 |	26.10. |	180 Min.
 Zusammenfassung Statusueberwachung & Projektsteuerung 315 - 348 |	26.10. |	180 Min.
-Summe |	26.10. |	1140 Min.
+Planung roter Faden |	04.11. |	90 Min.
+Planung Ausarbeitung | 11.11 | 150 Min.
+Summe |	26.10. |	1380 Min.
