@@ -13,4 +13,6 @@ Planung roter Faden |	04.11. |	90 Min.
 Planung Ausarbeitung | 11.11 | 150 Min.
 Ausarbeitung global verteilte | 17.11 | 180 Min.
 Ausarbeitung global verteilte | 18.11 | 240 Min.
-Summe |	26.10. |	1800 Min.
+Ausarbeitung agiles IT-Projektmanagement | 19.11 | 240 Min.
+Ausarbeitung agiles IT-Projektmanagement | 20.11 | 180 Min.
+Summe |	26.10. |	2220 Min.
