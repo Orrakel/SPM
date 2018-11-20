@@ -1,96 +1,252 @@
-Global verteilte IT-Projekte in der Prä-Planung
 
-Projekte und Unternehmensaufgaben global zu verteilen bietet einige Wettbewerbsvorteile.
-Dies muss allerdings schon im Vorfeld geplant sein, um auf die vielen Fallstricke, die sich ergeben korrekt zu reagieren.
-Wo dabei die Risiken und Chancen liegen, so wie die aktuelle Entwicklung ist wird im Folgenden erklärt.
+Projekte und Unternehmensaufgaben global zu verteilen bietet einige 
+Wettbewerbsvorteile. Dies muss allerdings schon im Vorfeld geplant sein, um auf die
+vielen Fallstricke, die sich ergeben korrekt zu reagieren. Wo dabei die Risiken und
+Chancen liegen, so wie die aktuelle Entwicklung ist wird im Folgenden erklärt.
 
 Grundsätzlich sind erstmal die Begriffe Outsourcing und Offshoring zu Unterscheiden.
-Outsourcing beinhaltet nur das Vergeben von Aufgaben und Projekten an Lieferanten für eine meist anhaltende Beziehung.
-So gilt das Onshore-Outsourcing für Lieferanten im gleichen Land und das Nearshore-Outsourcing für einen Lieferanten im Nachbarland.
-Zudem gibt es noch taktisches bzw. Just-in-Time Sourcing für kurzfristige Einbindungen von Lieferanten in Projekte und
-strategisches Outsourcing für das Auslagern langanhaltender Geschäftsprozesse wie Wartung oder Tests.
-Offshoring hingegen beschreibt grundsätzlich nur betriebliche Aktivitäten im Ausland.
-Konkreter ist dabei internes Offshoring für eigene Niederlassungen oder Tochtergesellschaften im Ausland und
-externes Offshoring für das Vergeben von Aufgaben und Projekten an Lieferanten im fernen Ausland.
+Outsourcing beinhaltet nur das Vergeben von Aufgaben und Projekten an Lieferanten für
+eine meist anhaltende Beziehung. So gilt das Onshore-Outsourcing für Lieferanten im
+gleichen Land und das Nearshore-Outsourcing für einen Lieferanten im Nachbarland.
+Zudem gibt es noch taktisches bzw. Just-in-Time Sourcing für kurzfristige 
+Einbindungen von Lieferanten in Projekte und strategisches Outsourcing für das 
+Auslagern langanhaltender Geschäftsprozesse wie Wartung oder Tests. Offshoring 
+hingegen beschreibt grundsätzlich nur betriebliche Aktivitäten im Ausland. Konkreter 
+ist dabei internes Offshoring für eigene Niederlassungen oder Tochtergesellschaften 
+im Ausland und externes Offshoring für das Vergeben von Aufgaben und Projekten an 
+Lieferanten im fernen Ausland.
 
-Gründe für globale Verteilung von IT-Projekten lassen sich im Kern auf vier Bereiche runterbrechen.
-Zum einen die höhere Effizienz durch geringe Lohnkosten, was zu Einsparungen von bis zu 20 Prozent führt. 
-Als zweites die hohe Flexibilität durch anderes Arbeitsrecht und auch durch andere Arbeitsmoral.
-Als drittes erlaubt der Zugriff auf globale Ressourcen auch weltweite Talente anzuwenden. 
-Zuletzt wäre noch der Präsenz in neuen Märkten, die durch Auslagerungen in diese entstehen, 
-da man dabei auch Kenntnisse und Möglichkeiten sammelt die wichtig sind für den
-Vertrieb in diese Regionen.
+Gründe für globale Verteilung von IT-Projekten lassen sich im Kern auf vier Bereiche 
+runterbrechen. Zum einen die höhere Effizienz durch geringe Lohnkosten, was zu 
+Einsparungen von bis zu 20 Prozent führt. Als zweites die hohe Flexibilität durch 
+anderes Arbeitsrecht und auch durch andere Arbeitsmoral. Als drittes erlaubt der 
+Zugriff auf globale Ressourcen auch weltweite Talente anzuwenden. Zuletzt wäre noch 
+der Präsenz in neuen Märkten, die durch Auslagerungen in diese entstehen, da man 
+dabei auch Kenntnisse und Möglichkeiten sammelt die wichtig sind für den Vertrieb 
+in diese Regionen.
 
-Nun da die Gründe vorliegen, gilt es die Grundsätzlichen Unterschiede zu lokalen IT-Projekten herauszustellen und
-Aufzuzeigen worauf bei global verteilten IT-Projekten zu achten ist.
-Allgemein werden lokal auch in Zukunft noch anwendungsspezifische Integrationsaufgaben, Systemtechnik und Produktentwicklung gelagert.
-Aber gerade Codierung von Komponenten, Middleware und Software-Werkzeugen eignet sich für die Auslagerung.
-Wenn nun beschlossen ist Unternehmensaufgaben und Projekte auszulagern, muss zuerst das eigene Unternehmen bereit dafür sein.
-Der CMMI Reifegrad 3 sollte in jedem Fall erreicht sein, um darauf eine stabile Organisation für global verteilte IT-Projekte aufzubauen.
-Auch sollte der Schwerpunkt für die globale Verteilung bekannt sein, z.B. Kostengründe.
-Bevor nun der Start beginnt sollte geprüft werden, ob sich die globale Verteilung lohnt, da neben den Stundensätzen auch
-Zusatzkosten vom Management durch Lizenzen, Sicherheit und Infrastruktur zu beachten sind. Dazu kommen Zusatzkosten im eignen
-Land durch Reisen und Kommunikation und die Initialisierungskosten. Außerdem sollten auch für die zusätzliche Betreuung genug mittel
-eingeplant werden, weil die Kosten sonst im höheren Maße über den zusätzlichen Arbeitsaufwand zurückkommen.
-Ist dies ausreichend geprüft gilt es vier wichtige Faktoren sicherzustellen.
-Diese sind Koordination, Kollaboration bzw. Zusammenarbeit, Kontrolle und Kommunikation.
-Gerade durch sprachliche und kulturelle Unterschiede kann es zu Fehlinterpretationen kommen.
-Beim kulturellen Unterschied z.B. wird der deutsche Markt oft als zu zwanghaft prozessorientiert
-und formal wahrgenommen. Auch sind Pünktlichkeit und Aussagekraft von Vereinbarungen hier stärker ausgeprägt.
-Um trotzdem eine gemeinsame Basis zu sichern, sollte kontinuierliches Training stattfinden, 
+Nun da die Gründe vorliegen, gilt es die Grundsätzlichen Unterschiede zu lokalen 
+IT-Projekten herauszustellen und aufzuzeigen worauf bei global verteilten 
+IT-Projekten zu achten ist. Allgemein werden lokal auch in Zukunft noch 
+anwendungsspezifische Integrationsaufgaben, Systemtechnik und Produktentwicklung 
+gelagert. Aber gerade Codierung von Komponenten, Middleware und Software-Werkzeugen 
+eignet sich für die Auslagerung. Wenn nun beschlossen ist Unternehmensaufgaben und 
+Projekte auszulagern, muss zuerst das eigene Unternehmen bereit dafür sein. 
+Der CMMI Reifegrad 3 sollte in jedem Fall erreicht sein, um darauf eine stabile 
+Organisation für global verteilte IT-Projekte aufzubauen. Auch sollte der 
+Schwerpunkt für die globale Verteilung bekannt sein, z.B. Kostengründe. 
+Bevor nun der Start beginnt sollte geprüft werden, ob sich die globale Verteilung 
+lohnt, da neben den Stundensätzen auch Zusatzkosten vom Management durch 
+Lizenzen, Sicherheit und Infrastruktur zu beachten sind. Dazu kommen Zusatzkosten 
+im eignen Land durch Reisen und Kommunikation und die Initialisierungskosten. 
+Außerdem sollten auch für die zusätzliche Betreuung genug Mittel eingeplant 
+werden, weil die Kosten sonst im höheren Maße über den zusätzlichen 
+Arbeitsaufwand zurückkommen. Ist dies ausreichend geprüft gilt es vier wichtige 
+Faktoren sicherzustellen. Diese sind Koordination, Kollaboration bzw. 
+Zusammenarbeit, Kontrolle und Kommunikation. Gerade durch sprachliche und 
+kulturelle Unterschiede kann es zu Fehlinterpretationen kommen. Beim 
+kulturellen Unterschied z.B. wird der deutsche Markt oft als zu zwanghaft 
+prozessorientiert und formal wahrgenommen. Auch sind Pünktlichkeit und 
+Aussagekraft von Vereinbarungen hier stärker ausgeprägt. Um trotzdem eine 
+gemeinsame Basis zu sichern, sollte kontinuierliches Training stattfinden, 
 da dies die Synchronisierung und die Beseitigung von Unklarheiten beschleunigt.
-Auch sollte genausten auf die Rollenfestlegung und das Änderungsmanagement geachtet werden, um Abläufe zu konkretisieren.
-Hierbei kann z.B. ein Projektprotal mit sämtlichen Projektinformationen zu den Anforderungen und Fortschrittsberichten nützlich sein. Da diese
-den Mitarbeitern transparent das verstehen der Organisationsstruktur erleichtern. 
-Es sollten allerdings auch stehts rechtliche Einschränkungen beachtet werden, wie z.B. lange Einreisezeiten für
-chinesische und indische Bürger in westliche Länder.
-Beim Hinzuziehen von Fremdunternehmen im Ausland ist zudem zu prüfen, wie diese den Unternehmenszielen gerecht werden.
+Auch sollte genausten auf die Rollenfestlegung und das Änderungsmanagement 
+geachtet werden, um Abläufe zu konkretisieren. Hierbei kann z.B. ein Projektprotal 
+mit sämtlichen Projektinformationen zu den Anforderungen und Fortschrittsberichten 
+nützlich sein. Da diese den Mitarbeitern transparent das verstehen der 
+Organisationsstruktur erleichtern. Es sollten allerdings auch stehts rechtliche
+Einschränkungen beachtet werden, wie z.B. lange Einreisezeiten für chinesische 
+und indische Bürger in westliche Länder. Beim Hinzuziehen von Fremdunternehmen 
+im Ausland ist zudem zu prüfen, wie diese den Unternehmenszielen gerecht werden.
 Allerdings ist es gerade aus Mangel an Erfahrung schwer diese zu bewerten.
-Nach Möglichkeit sollten dabei Informationsquellen wie die Handelskammer genutzt werden, vor allem bei Fragen zum Vertragsrecht.
-Wenn anwendbar sollte hierbei ein Unternehmen mit einer geringen Fluktuation ausgewählt werden, mit Rahmenverträgen über mehrere Jahre.
-Dies senkt die Kosten für das Neuanlernen von externem Personal zum konkreten Projekt.
+Nach Möglichkeit sollten dabei Informationsquellen wie die Handelskammer genutzt 
+werden, vor allem bei Fragen zum Vertragsrecht. Wenn anwendbar sollte hierbei ein 
+Unternehmen mit einer geringen Fluktuation ausgewählt werden, mit Rahmenverträgen 
+über mehrere Jahre. Dies senkt die Kosten für das Neuanlernen von externem 
+Personal zum konkreten Projekt.
 
-Gerade bei global verteilten IT-Projekten ist das Urheberrecht ein heikles Thema, worauf wir jetzt eingehen.
-Grundsätzlich sollte Kommunikation zu Patentfragen und vertraulichen Themen 
-dabei nicht über E-Mail oder öffentliche Telefonnetzte kommuniziert werden.
-Gerade in Ländern wie Indien oder China aber auch in westlichen Ländern, werden diese oft abgehört.
-Darum sollte bei den Kommunikationsverbindungen immer auf Internetprotokolle, Firewalls, 
-Zugriffszonen, Virenschutz und Nutzungseinschränkungen periodisch auditiert werden.
-Dazu kommt das rechtlich das Urheberrecht in vielen Ländern ganz anders behandelt wird als bei uns. 
-Zudem sind auch die moralischen Vorstellungen zu diesem Thema in vielen Ländern anders.
-Grundsätzlich liegt das Urheberrecht immer zuerst für eine natürliche Person vor 
-und erst durch einen Arbeitsvertrag bei dem Unternehmen. Deswegen sollte 
-dies mit der rechtlichen Situation des jeweiligen Landes in Einzelarbeitsverträgen genau abgesichert sein.
-Auch dann kann es durch hohe Fluktuation und andere Rechtslagen noch zu einem Wegfluss von Know-how kommen.
-Deshalb sollten sämtliches gewonnenen Know-how und damit auch der Code kontinuierlich im Heimatland gesichert und dokumentiert werden.
-Auch sollte pro-aktiv der Nutzung von Fremdsoftware wie Open-Source Daten auf Rechteverletzung im jeweiligen Land geprüft werden.
+Gerade bei global verteilten IT-Projekten ist das Urheberrecht ein heikles Thema, 
+worauf wir jetzt eingehen. Grundsätzlich sollte Kommunikation zu Patentfragen 
+und vertraulichen Themen dabei nicht über E-Mail oder öffentliche Telefonnetzte 
+kommuniziert werden. Gerade in Ländern wie Indien oder China aber auch in 
+westlichen Ländern, werden diese oft abgehört. Darum sollte bei den 
+Kommunikationsverbindungen immer auf Internetprotokolle, Firewalls, Zugriffszonen, 
+Virenschutz und Nutzungseinschränkungen periodisch auditiert werden. Dazu kommt 
+das rechtlich das Urheberrecht in vielen Ländern ganz anders behandelt wird als 
+bei uns. Zudem sind auch die moralischen Vorstellungen zu diesem Thema in vielen 
+Ländern anders. Grundsätzlich liegt das Urheberrecht immer zuerst für eine 
+natürliche Person vor und erst durch einen Arbeitsvertrag bei dem Unternehmen. 
+Deswegen sollte dies mit der rechtlichen Situation des jeweiligen Landes in 
+Einzelarbeitsverträgen genau abgesichert sein. Auch dann kann es durch hohe 
+Fluktuation und andere Rechtslagen noch zu einem Wegfluss von Know-how kommen.
+Deshalb sollten sämtliches gewonnenen Know-how und damit auch der Code 
+kontinuierlich im Heimatland gesichert und dokumentiert werden. Auch sollte 
+pro-aktiv der Nutzung von Fremdsoftware wie Open-Source Daten auf 
+Rechteverletzung im jeweiligen Land geprüft werden.
 
-Nun da die wichtigsten Punkte zur globalen Verteilung von IT-Projekten geklärt sind,
-gilt es noch die Vorteile und Nachteile der jeweiligen Länder aufzuzeigen.
-Allgemein sollten man sich ausführlich über viele Quellen zu den jeweiligen Ländern und auch deren
-Regionen informieren. Dabei sind Länderreports von Ernst & Yound, DB Research, die WTO und Benchmarks von Vector 
-Beispiel Datenquellen.
-Auch zu beachten ist dabei die Zeitzone, Entfernung, Sprache, Kultur und die Stabilität geografisch, politisch und vom Arbeitsmarkt.
-Nun wird auf einige Besondere Kandidaten eingegangen.
-Hardware und Firmware wird häufig nach Indien Ausgelagert. Was gerade mit einem frühen Festlegen auf
-Qualität, sowie mit geringen Lohnkosten, weit verbreiteten englischer Sprache und einem Zeitunterschied von nur 3,5 Stunden zu tun hat.
-Doch auch hier sind sprachliche Barrieren, da z.B. ein indischer Ingenieur sich ehr zurückhält um Abläufe nicht zu stören.
-Auch gibt es zwar Regionen wie die südlichen Landesteile und Delphi wo man sich als Europäer noch recht verstanden fühlt, allerdings
-auch Regionen wo dies weniger der Fall ist. 
-Zusätzlich ist auch ein lockerer Sicherheitsumgang bei Feuerschutz, Datensicherheit und Datenschutz zu bedenken,
-den man schon im Vorfeld mit dem Durchsetzten von Standards entgegenkommen sollte.
-Dazu kommen eine schlechte Infrastruktur, Bürokratie und Korruption.
-Trotzdem hat Indien den höchsten Grad an Unternehmen mit dem CMMI Reifegrad 5.
-Auch ist Indien der Hauptstandort für das Outsourcing von IT-Projekten, wenn auch die Marktbedeutung leicht sinkt.
-Ein weiterer Wichtiger Standort ist China. 
-Wobei besonders Hardwareproduktion in China liegt und es darum geht mit den eigenen Produkten im chinesischen Markt anzukommen.
-Allerdings ist in China auch die sprachliche Barriere größer und der Umgang mit geistigem Eigentum ist lockerer.
-Allgemein sind dadurch die Nebenkosten in China nämlich Schnittstellenmanagement und Übersetzung, die Gesamtkosten
-höherer trotzt geringerer Lohnkosten als in Indien.
-Auch kulturell ist hier zu beachten, dass Probleme hier durch die starke Hierarchie oft unerkannt bleiben.
-Um dem entgegenzuwirken sollte nach Möglichkeit, dass aufmerksam machen auf Risiken und Fehler belohnt werden.
-China und Japan haben hierbei auch strenge Rituale zu gesellschaftlichen Positionen, aber gleichzeitig eine Vertrautheit in
-Arbeitsgruppen die uns so fremd ist.
-Auch Osteuropa und gerade Polen sind aus deutscher Sicht gute Kandidaten, da gerade Entfernung und Zeitzonenunterschied
-sehr gering sind.
-Zum Abschluss nun noch eine Liste zu Regionen der Welt, mit deren Vor- und Nachteilen.
+Nun da die wichtigsten Punkte zur globalen Verteilung von IT-Projekten geklärt 
+sind, gilt es noch die Vorteile und Nachteile der jeweiligen Länder aufzuzeigen.
+Allgemein sollten man sich ausführlich über viele Quellen zu den jeweiligen 
+Ländern und auch deren Regionen informieren. Dabei sind Länderreports von 
+Ernst & Yound, DB Research, die WTO und Benchmarks von Vector Beispiel 
+Datenquellen. Auch zu beachten ist dabei die Zeitzone, Entfernung, Sprache, 
+Kultur und die Stabilität geografisch, politisch und vom Arbeitsmarkt. Nun wird 
+auf einige Besondere Kandidaten eingegangen. Hardware und Firmware wird häufig 
+nach Indien Ausgelagert. Was gerade mit einem frühen Festlegen auf Qualität, 
+sowie mit geringen Lohnkosten, weit verbreiteten englischer Sprache und 
+einem Zeitunterschied von nur 3,5 Stunden zu tun hat. Doch auch hier sind 
+sprachliche Barrieren, da z.B. ein indischer Ingenieur sich ehr zurückhält, 
+um Abläufe nicht zu stören. Auch gibt es zwar Regionen wie die südlichen 
+Landesteile und Delphi wo man sich als Europäer noch recht verstanden fühlt, 
+allerdings auch Regionen wo dies weniger der Fall ist. Zusätzlich ist auch ein 
+lockerer Sicherheitsumgang bei Feuerschutz, Datensicherheit und Datenschutz zu 
+bedenken, den man schon im Vorfeld mit dem Durchsetzten von Standards 
+entgegenkommen sollte. Dazu kommt eine schlechte Infrastruktur, Bürokratie 
+und Korruption. Trotzdem hat Indien den höchsten Grad an Unternehmen mit dem 
+CMMI Reifegrad 5. Auch ist Indien der Hauptstandort für das Outsourcing von 
+IT-Projekten, wenn auch die Marktbedeutung leicht sinkt. Ein weiterer Wichtiger 
+Standort ist China. Wobei besonders Hardwareproduktion in China liegt und es 
+darum geht mit den eigenen Produkten im chinesischen Markt anzukommen. Allerdings 
+ist in China auch die sprachliche Barriere größer und der Umgang mit geistigem 
+Eigentum ist lockerer. Allgemein sind dadurch die Nebenkosten in China nämlich 
+Schnittstellenmanagement und Übersetzung, die Gesamtkosten höherer trotzt 
+geringerer Lohnkosten als in Indien. Auch kulturell ist hier zu beachten, dass 
+Probleme hier durch die starke Hierarchie oft unerkannt bleiben. Um dem 
+entgegenzuwirken sollte nach Möglichkeit, dass aufmerksam machen auf Risiken und 
+Fehler belohnt werden. China und Japan haben hierbei auch strenge Rituale zu 
+gesellschaftlichen Positionen, aber gleichzeitig eine Vertrautheit in 
+Arbeitsgruppen die uns so fremd ist. Auch Osteuropa und gerade Polen sind aus 
+deutscher Sicht gute Kandidaten, da gerade Entfernung und Zeitzonenunterschied 
+sehr gering sind. Zum Abschluss nun noch eine Liste zu Regionen der Welt, mit 
+deren Vor- und Nachteilen.
+
+<add Bild_Datei globale_Regionsbewertung.png>
+
+Klassisch werden Projekte dabei in der Sequenziellen Vorgehensweise durchgeführt.
+Dabei wird versucht schon das gesamte Projekt im Voraus möglichst exakt zu 
+planen. Besonders in Sicherheitskritischen Projekten mit feststehenden 
+Anforderungen, wie z.B. der Luft- und Raumfahrt, ist dies sehr sinnvoll. 
+Dabei wird eine allgemein gültige Systematik gesucht wie z.B. das 
+Wasserfallmodell. Allerdings bedeutet dies auch bei Änderungen einen enormen 
+Aufwand, auf viele Änderungen wird auch erst reagiert, wenn das Problem 
+eingetreten ist. Auch ist dieses Vorgehen bei einem Mangel an Erfahrung sehr 
+problemanfällig. Zusätzlich führt die dort eingesetzte Weitergabe von Aufgaben an 
+Teammitglieder, bei einzelnen Mitarbeitern oft zu Überforderung.
+
+Gerade bei unklarem Projektablauf und geringer Erfahrung und Fluktuation 
+bietet das agile IT-Projektmanagement eine gute Alternative.
+Denn hierbei setzt man auf eine reduzierte Doku und Autonomie von
+Projektteams, was eine hohe Flexibilität liefert. Zwar opfert man
+hierbei einen Teil der Einschätzungsfähigkeit von gesamt Kosten- und
+Zeitaufwand, allerdings ist dies bei unklarem Projektablauf generell
+ehr etwa spekulativ.
+Es wird aber auch hier selbstverständlich eine Doku erstellt, aber
+nur so weit wie sie Mehrwert bringt, so werden Planungen zu neuen
+Releases erst kurz vor deren Arbeitsbeginn durchgeführt, praktisch
+"Just-in-Time". Erst am Ende eines Releases oder Sprints wird über 
+den Ablauf reflektiert und die Doku der Neuerungen verfasst. 
+Problematisch wird allerdings auch dies bei hoher Fluktuation.
+Die geringe Doku erschwert nämlich neuen Arbeitskräften die Einarbeitung.
+In diesem Fall muss der Doku Aufwand erhöht werden, um nicht die
+Leistungsfähigkeit der Mitarbeiter zu behindern.
+Auch immer wiederkehrende Prozesse sollten dokumentiert werden, damit
+Arbeitsprozesse beschleunigt werden können.
+
+Ein weiterer wichtiger Punkt des agilen IT-Projektmanagements ist die
+starke Kundeneinbindung, hier erleichtert z.B. der Einsatz von 
+Screen-Prototypen die Vorstellungen der Pläne gegenüber dem Kunden. 
+Regelmäßige treffen für Projektverlaufsentscheidungen sind hier wichtig. 
+Unterstützt wird dies durch einen Produktmanager, der die Kunden auch dann 
+unterstützt, wenn sie ihren eigenen Zielen durch mangelndes Wissen im Weg 
+stehen. Dies erlaubt Projektanpassungen in früheren Phasen, was den
+Änderungsaufwand stark verringert. Allerdings verlangt dies auch mehr
+Zeitansatz von Kundenseiten.
+
+Aus diesen Gründen ist eine hohe Flexibilität des eigenen Teams nötig,
+weshalb auch nur die Ziele klar definiert sind, aber nicht die Umsetzung.
+Dies muss vom Team geleistet werden, was dafür das nötige Vertrauen braucht
+und eine starke Motivation zu dem Projekt. Dies sorgt dann auch für eine
+stärkere Bindung an die Ziele. Erst durch die vom Team erstellten Pläne
+wird der Aufwand geschätzt. Dies sorgt aber frühzeitig nur sehr schwer
+einschätzbare Gesamtkosten, dabei ist es in Europa kulturbedingt nur sehr
+schwer die Kosten flexible zu halten. Die Ausnahme liegt nur vor, wenn
+nach Aufwand bezahlt wird. Dies ist aber nur selten der Fall, was deshalb
+auch zur Kostenfalle fürs eigene Unternehmen werde kann.
+
+Mithilfe der starken Kundeneinbindung und des flexiblen Arbeitens, kann so auch
+die Anforderungsanalyse erstellt werden. Während beim Sequenziellen vorgehen
+z.B. oft ein Pflichtenheft genutzt wird, werden hier sogenannte 
+Benutzergeschichten oder User Stories benötigt. Diese User Stories werden
+von den Anwendern, dem Projektteam des Lieferanten und den Kunden
+in Anforderungsworkshops Beschrieben. Die Anwender werden dabei Kunden
+genannt und der Kunde selbst, welcher meist als Unternehmen durch eine
+Geschäftsführung vertreten wird, ist als Product Owner bekannt.
+In den User Stories sind die Funktionalen Anforderungen und die nicht
+Funktionalen Anforderungen festgehalten, wie z.B. Zuverlässigkeit,
+Benutzbarkeit und Änderbarkeit. Beschrieben werden diese mit
+Eigenschaften oder Rahmenbedingungen aus Endanwendersicht. Zudem
+sind sie für bestimmte Projektabschnitte bzw. Sprints gemacht, welche
+voneinander unabhängig sind. Die dabei gewonnen Anforderungen müssen
+zu not auch Verhandelbar sein, wenn der Aufwand ungeplant stark anwächst.
+Auch müssen sie nutzen bringen, schätzbar sein, klein und testbar.
+Die Erstellung und Verfeinerung der User Stories geschieht dabei
+Just-in-Time durch Team und Kunden. Hierbei werden diese aber erst
+unmittelbar vor Umsetzungszyklus gefertigt.
+
+Um das agile IT-Projektmanagement als Vorgehen zu beschreiben gibt es zwölf
+Prinzipien.
+1. Kunden soll in kleinen Abständen ein Mehrwert geliefert werden, auch damit
+diese das Produkt Schritt für Schritt kennen lernen.
+2. Veränderte Anforderungen positiv als Verbesserungsmöglichkeit annehmen.
+3. Funktionierende Software regelmäßig liefern, in bestmöglich kurzen Abständen.
+4. Fachbereichsmitarbeiter und Entwickler arbeiten täglich gemeinsam am Projekt,
+für eine maßgeschneiderte Anpassungen.
+5. Projekt um motivierte Mitarbeiter aufbauen, denen man Vertrauen schenkt.
+6. Synchrone Kommunikation wie Telefongespräche, asynchronen wie E-Mails vorziehen.
+7. Funktionierende Software ist der Maßstab für Fortschritt.
+8. Gleichbleibendes Arbeitstempo beibehalten, um Abschätzungen möglich zu machen.
+9. Aufmerksam gegenüber technischer Qualität und gutem Design.
+10. Einfachheit vorziehen und nur liefern was der Kunde benötigt.
+11. Selbst organisierte Teams liefern die besten Ergebnisse.
+12. Regelmäßige Teambesprechungen mit Selbstanalyse zur Verbesserung nutzen.
+
+Auch gibt es das agile Manifest. Es legt fest, dass die Methoden des agilen
+Projektmanagements empirisch bzw. prüfbar, iterativ also wiederholbar auf
+einen Zustand und inkrementell also die Möglichkeit zur kontinuierlichen
+Verbesserungen bieten.
+
+Das Modell Scrum bietet sich dabei gut für das agile Projektmanagement an.
+Dabei kommt zusätzlich ein Scrum Master zum Einsatz der dem Projektteam
+ein ungestörtes Arbeiten mit nötiger Infrastruktur ermöglicht.
+Dabei gibt es auch Einsatzmöglichkeiten für eXtreme Programming mit
+Iterationen im ein bis drei Wochen Rhythmus mit täglichen Meetings oder
+Crystal Familiy wobei aber eine räumliche Nähe des Teams nötig ist, damit
+Teams sich Abhängig von ihren Fähigkeiten korrekt einstellen können.
+
+In der Vorprojektphase beim agilen Projektmanagement also eine
+Prozessdurchführung nach Aufwandsabschätzung oder Projektplanung nötig.
+Dies geht von der ersten Kundenanfrage bis Projektstart.
+In der Hauptprojektphase können dann Scrum, eXtream Programming und
+Crystal genutzt werden. Größere Software Produkte sollten dabei in kleinere
+aufgeteilt werden.
+Zum Abschluss also dem Post-Game erfolgt dann die Übergabe der Dokumente,
+Bedienungsanleitungen und des Quellcodes. Dann wird zuletzt das
+gesamte Projekt hinterfragt, damit Verbesserungsmöglichkeiten erkannt werden
+können.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
