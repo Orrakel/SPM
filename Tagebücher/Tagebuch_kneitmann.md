@@ -15,4 +15,5 @@ Ausarbeitung global verteilte | 17.11 | 180 Min.
 Ausarbeitung global verteilte | 18.11 | 240 Min.
 Ausarbeitung agiles IT-Projektmanagement | 19.11 | 240 Min.
 Ausarbeitung agiles IT-Projektmanagement | 20.11 | 180 Min.
-Summe |	26.10. |	2220 Min.
+Ausarbeitung IT-Projekte erfolgreich managen | 23.11 | 300 Min.
+Summe |	26.10. |	2520 Min.
