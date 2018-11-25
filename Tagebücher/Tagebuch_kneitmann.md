@@ -10,4 +10,7 @@ Organisation Meilensteinbeispiele 	|26.10. |	30 Min.
 Zusammenfassung IT-Projektteams Teamentwicklung und Führung 625 - 661 |	26.10. |	180 Min.
 Zusammenfassung Statusueberwachung & Projektsteuerung 315 - 348 |	26.10. |	180 Min.
 Planung roter Faden |	04.11. |	90 Min.
-Summe |	26.10. |	1230 Min.
+Planung Ausarbeitung | 11.11 | 150 Min.
+Ausarbeitung global verteilte | 17.11 | 180 Min.
+Ausarbeitung global verteilte | 18.11 | 240 Min.
+Summe |	26.10. |	1800 Min.
