@@ -1,0 +1,229 @@
+IT-Projekte richtig strukturieren und systematisch planen
+(Start der "Pre-Planung")
+
+Zum Start eines jedes IT-Projekts ist es wichtig, dass alle Teilnehmer Wissen was zu tun ist, deshalb gibt es die Projektplanung. 
+Man plant um einen so genannten "Projektfahrpläne" zu erstellen. In diesem Fahrplan werden Fragen beantwortet wie etwa: Wie lange wird es dauern, bis wir über diverse Zwischendtationen das Produkt erreicht haben? Da man vorher nie zu 100% voraussagen kann wie der beste Ablauf eines Projektes ist, ist eine Planung nie einfach und vermutlich auch nie richtig. Jedoch ist es auch nicht das Ziel eines Projektplans richtig zu sein. Er sollte möglichst richtig sein damit die Teilnehmer sich dort dran orientieren können. Wichtig bei einem solchen Projektplan das Ziele und Anforderungen erfasst werde, dabei ist zu bedenken das die Planung Vorraussetztung und Grundlage für die Projektumsetztzung und Projektkontrolle ist.
+
+Ein erhöhter Planungsaufwand in den frühen Phasen eines Projekts kann den gesamten Projektverlauf positiv beeinflussen. Es ist also sinnvoll sich mit entpsrechender Intensität und Qualität der Planung zu windmen, da so die Projektlaufzeit verkürzt und die Produktlebensdauer evtl. sogar erhöht wird. Zudem ist die Planung zu kontrollieren um frühe Fehler zu erkennen. 
+
+(Abbildung 6.1 auf S.2 von IT-Projekte richtig struk....)
+
+Aus der Praxis lässt sich festhalten, dass wenn ein Projekt mit Aufwand geplant wurde, lässt eine drastische Zeiteinsparung in der Abarbeitung des Projekts finden.
+
+Grundsätzliches zur Projektplanung
+
+Damit die Planung eines Projektes nicht planlos erfolgt, !!!!!!!!!!!!!!!!!!!!!!! booooooommmmmm flaksrakete!!!!!!!!!!! gibt es Grundsätze an denen sich orientiert werden kann.
+
+Als erstes Ordnet man den Ablauf, d.h. welche Aufgaben wann, wie und evtl. warum erledigt werden. Dieser Prozess besteht aus einer gedanklichen Simulation des Aublaufs des gesamten Projekts. Als Ergebniss erhalten wir einen "roten Faden" an dem sich die Teilnehmer orientieren können. Zur Hilfe kann man sich folgende Fragen stellen: Kann das so geschehen? , Fehlen irgendwelche Teile? , Eignent sich die ausgedachte Reihenfolge?.
+
+Desweiteren ist es Wichtig einen "Rahmen" zu schaffen. Hier werden Dinge festgelegt wie: welche Tätigkeiten erledigt werden müssen, durch wen diese Tätigkeiten erledigt werden müssen, wann diese erledigt werden müssen, mit welchen Resourcen diese erlegit werden müssen und zu welchen Kosten diese Dinge erledigt werden müssen. 
+
+Nach der Grundsätzlichen Planung ist jedoch festzuhalten, dass immer wieder Fragestellungen oder Unsicherheit aufkommen können. Um auf diese Umstände vorbereitet zu sein bietet es sich an den Projektplan nicht zu stark zu fixieren, um auf eventuelle ungeplante Ereignisse reagieren zu können. Da man in solchen Fällen den Projektplan anpassen muss, kann man sagen das die Projektplanung ein dynamischer Prozess ist. Im allgemeinen gilt je komplexer eine Projekt ist, desto größer ist die Wahrscheinlichkeit das man sein Projekt später anpassen muss.
+
+In der Praxis ist eine Projektplanung fester Bestandteil eines Projekts, weshalb dies auch entlohnt werden will. Da aber in der realität meist keine Zeit dafür ist und der Auftraggeber Ergebnisse sehen will, ist man gezwungen die Projektplanung schlicht und kurz zu halten. Aus diesem Grund entstand auch der Satz Zitat: " Ordnung kostet Geld, aber Unordnung noch viel mehr!" von Heinrich Gerber.
+
+Um ein Projekt richtig zu strukturieren ist es wichtig sich mit seinem gewünschten Produkt vertraut zu machen. Da sich die Planung eines Projekt immer nach dem Produkt richtet kann man um sein Produkt einzuordnen sich am Produktlebenszyklus orientieren.
+
+Damit die Struktur eines Projekts richtig geglieder wird bietet es sich an das Projekt in verschiedene Phasen einzuteilen. Dabei kann es grobe Oberphasen geben die kleinere Unterphasen enthalten. Dieses phasenorientiertes Vorgehen bietet mehrere Vorteile: die Komplexität wird verringert, das Prjekt wird überschaubarer, die Transparenz wird erhöht und Erfolgserlebnisse werden sichbar, da man sehen kann wenn kleinere Phasen abgeschlossen sind.
+Durch diese Projekt einteilung enstehen zwei verschiedene Blickwinkel. Es gibt die Einteilung der eigentlichen Projektarbeit, um stufenweise die Sachergebnisse zu erarbeiten und die Einteilung der Aktivitäten, die den Problemlösungsprozess organisieren und begleiten. Die erste Einteilung beschäftigt sich also mit de Projektinhalt. Diese Projekteinteilung kann man in verschiedenen Arten modellieren, daraus enstehen dann auch die verschiedenen Phasenmodelle wie das Wasserfallmodell oder das V-Modell. Die zweite Einteilung beschäftigt sich mit derm Prjektmanagement. Unabhängig vom Projektinhalt fallen bei jedem Projekt nahezu identische Aufgaben im Projektmanagement an. 
+
+(Abbildung 6.3 auf S.8 in IT Projekte Planun)
+
+Dabei befassen sich die einzelnen mit Stages (gelb) mit verschiedenen Fragen:
+- Idea 		= ist die Idee brauchbar
+- Prelaunch 	= Sollen wir oder sollen wir nicht?
+- Launch	= Wie werden wir das Prjekt abwickeln?
+- Execute	= Wie bringen wir das geplante Projekt zum Laufen bzw. wie halten wir es am Laufen?
+- Implenentation= Wie bringen wir die Projektergebnisse in die operative Phase?
+
+Jedoch ist bei diesem Modell anzumerken das in der Praxis Schwierigkeiten bei der Abgrenzung dieser Phasen auftreten können. Allgemein lässt sich sagen das bei Benutzung dieses Modells auf hohe Flexibilität zu achten ist.
+
+Bei jedem Projekt muss die Projektleitung als erstes die Frage beantworten welches Phasenmodell benutzt werden soll. Da dies immer vom zu erzielenden Produkt abhängt ist diese Frage nicht immer leicht zu beantworten. Um an diese Frage welches Modell benutzt werden soll heanzugehen bieten sich drei Wege. Als erstes ist es möglich die Antwort aus der Literatur herauszulesen. Es gibt eine ganze Menge an "typischen" Modellen die sich in verschiedenen Branchen etabliert haben. Als zweites kann es Vorgaben vom Unternehmen oder Auftaggeber geben, die ein bestimmtes Modell verlangen. Wenn einen die beiden zuerst genannten Methoden nicht weiterbingen gibt es noch den gesunden Menschenverstand der einen dabei Hilft sein Projekt richtig zu modellieren. In der Praxis wird die erste Methode mit der Dritten vermischt, so entsteht ein Plan mit Strunktur und erfüllbaren Zielen. Ein Beispiel eines solchen Plans ist das Modell für Entwiklungsvorhaben nach Saynisch.
+
+(Tabelle 6.1 IT Planen und Stru...)
+
+Für die Planung eines konkreten IT-Projekts bei dem nicht auf eines der "klassischen" Modelle zurückgegriffen werden soll, gilt es sich an folgenden Punkten zu orientieren um ein für sich geeignetes Modell zu entwickeln. Jede zu erstellende Phase braucht einen Namen, eine Kurzebeschreibung, eine Voraussetzung, ein Ergebniss und ein Abschlussmeilenstein. Durch diese Diffinierung erhält der Projektablauf seine ersten eigenen Konturen. Somit wird eine Grundlage für das Projekt geschaffen.
+
+Nachdem also die Frage der Phaseneinteilung geklärt ist kann man sich dem Projekt-Struktur-Plan widmen. Dieser Projekt-Struktur-Plan liefert eine Übersicht über alle nötigen Arbeiten, dient als Grundlage für Risikoanalysen, erleichtert die erste Budgetierung, ist ein zentrales Dokument für die Projektsteuerung, hilft dabei die Projektorganisation bedarfsgerecht weiterzuentwickeln un d beschreibt was und nicht wie es zu tun ist. Um einen Struktur plan zu realisieren sollte sich an drei Punkten orientiert werden. Zunächsteinmal sollte zu Beginn der Projektverlauf Struturiert werden, man teilt die Aufgaben entweder nach top-down oder nach dem bottom-up Prinzip auf. Beim top-down Prinzip werden mehrere Ebenen erstellt und diese vom Ganzen (oben) nach Details (unten) geglieder. Das bottom-up Prinzip sammelt zuerst alle wichtigen Aufgaben. Anschließend werden sie selektiert, geordnet und in unter Oberpunkten zusammengefasst.
+Nachdem die Struktur festgelegt ist bildet man Arbeitspakete. Hierbei wird lediglich bestimmt welche Aufgaben zusammen gehören und wo sie sich abgrenzen. Eine Darstellung des Projekt-Struktur-Plans kann in einem Baum erfolgen.
+
+(Abbildung 6.9 IT-planwnenawfnafnasnfei S.20)
+
+Als dritten Planungsschritt werden Ablauf und Termine berücksichtigt. Da der Projekt-Struktur-Plan keine Zeitlichen Vorgaben aufweist werden diese nun erfasst. Es wird ein Ablaufplan erstellt, welcher die Fragen beantwortet: Welche Abreitspakete können unabhängig voneinander durchgeführt werden?, Welche Abreitspakete sind unmittelbare Voraussetzung für andere Abreitspakete?, Welche Abreitspakete können unmittelbar folgen?, Welche Aktivitäten lassen sich parallel ausführen?. Die enstehende Ausarbeitung kann man in einem Netzplan darstellen.
+
+(Abbildung 6.11 S.22 ITPASKFOFNKWQENFONQOWF)
+
+Da die Aufgaben teilweise schwierig zu bewerten sind gibt es eine Aufwandsabschätzung. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! KAPITEL AUFWANDSABSCHÄTZUNG REIN ODER NICHT SO????????????????????????????????????????????
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Seite 22 IT-Planung Struktur
+
+Anhand der entstandenen Schätzungen kann dann überprüft werden ob Termine realistisch sind. Desweiteren können Meilensteine erstellt werden die es gilt einzuhalten. Die Zeitliche gestalltung lässt sich in einem Diagramm darstellen.
+
+(Abbildung 6.14 S.28 ITplanensturjwadiawfd)
+
+Ein weiteres Thema des Planens von Projekten ist das Puffermanagement. Es ist eins der heikelsten Themen und wird häufig aus Zeitmangel ignoriert. Dazu kommt das es schwer ist Pufferzeit zu verkaufen, da kein Auftraggeber hören will das er Zeit zu bezahlen hat die als Puffer genutzt wird. Um also mögliche Zeitliche schwierigkeiten vorzubeugen hat man die zum einen die Möglichkeit von Anfang an mehr Zeit einzuplanen oder sich eben eine Pufferzeit mit einzuteilen. Diese einzuplanende Pufferzeit hängt natürlich vom Umfang des Projektes ab. Aus verschiedenen Erfahrungen in der Praxis sagt man das die Pufferzeit eine Größenordnung von etwa 30% erreicht.
+
+Die bisherige Projektplanung wird hier einmal Grafisch dargestellt.
+
+(Abbildung 6.16 S.32 IT.Planen)
+
+Der Ablauf- und Terminplan, Ressourcenplan und der Kostenplan sind Pläne die man nicht zu 100% vorhersagen kann da hier die meisten Variablen auftreten. Im Resscourcenplan werden wie erwartet alle benötigen Ressourcen die für die Realisierung des Projekts erforderlich sind ausfgeführt. Hier werden Arbeitsmittel wie Computer, Material und Räume sowie aber auch das benötigte Personal aufgeführt. Bei dieser Planung ist stehts darauf zu achten das die geforderten Resscourcen auch realistisch im Sinne der Kosten sind.
+
+(Bild Checkliste Ressourcenanforderung S.34 IT.planung asdasdasd)
+
+Die größte Variable im Ressourcenplan ist der Mensch selbst. Bei einem Computer kann man davon ausgeben das alle die selbe Leistung haben. Beim Mensch ist es anders, hier ist darauf zu achten das die Menschen nicht überfordert werden. Darum muss diese Planung sehr gewissenhaft ausgeführt werden.
+
+Neben dem Resscourcenplan ist der Kostenplan ein weiterer Faktor für eine erfolgereiche Projektplanung. Hier werden alle Kosten des Projekts aufgeführt. Um den Kostenplan zu erstellen kann man Schrittweise vorgehen. Zunächst kann man die Arbeitspakete aus dem vorher erstellten Projekt-Struktur-Plan herausziehen. Sieht man sich das Arbeitspaket und das darin enthaltene Personal an, kann man daraus eine Kostenschätzung erstellen. So geht man die einzelnen Arbeitspakete durch und enthält am Ende einen Kostenplan/Budget. Bei der Kostenschätzung ist darauf zu achten welches Personal, Sachmittel und externe Dienstleistung in Anspruch genommen werden. Es ist darauf zu achten das von Zeit zu Zeit der Kostenplan kontrolliert wird um mögliche Fehleinschätzungen zu erkennen.
+
+Je komplexer das IT-Projekt ist desto mehr unbekannte Faktoren gibt es. Dementsprechend ist die erstellung einer Risikoanalyse sinvoll. Dabei kann man nach einem einfachen Schema vorgehen. Beim Projektauftrag werden zunächst die mögliche Risiken identifiziert. Nachdem man alle Risiken identifiziert hat werden diese Risiken bewertet. Hat man die Risiken bewertet kann man dafür Maßnahmen oder Notfallpläne entwerfen.
+
+(Abbildung 6.22 S.48 IT planen )
+
+Bei der Planung eines IT-Projektes gibt es aus der Praxis einen einfachen Tipp: KISS (keep it simple, stupid). Wenn man seine Planung einfach hält kann das mehere Vorteile bieten. Zum einen vereinfacht eine einfachere Planung, dass verständniss für den gesamten Plan. Desweiteren ist dieser leichter anpassbar. Jedoch erfordern größere Projekte eine komplexere Planung.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Personalplanung und Personaleinsatz in IT-Projekten
+
+Ein wichtiger Teil für ein erfolgreiches Projekt ist der personelle Faktor. Ein Projekt kann ohne kompetente Mitarbeiter nicht zum erfolgreichen Abschluss gebracht werden. Darum ist es wichtig sein Personal sorgfältig zu planen. Es hägt allerdings nicht alleinig vom eingestzten Personal ab ob ein Projekt erfolgreich ist, die kompetenz der Projektleitung ist ebenso wichtig. 
+
+(Abb 7.1 S.2 Personal
+
+Hier sind alle Beteiligten im IT-Projekt aufgeführt. Die Linienorganisation steht dabei eher Beratent zur Seite. Dies können externe Mitarbeitet oder Experten auf ihrem jeweiligen Gebiet sein.
+
+Ein Bestandteil der Teambildung ist die Klärung der Rollen und deren Funktionen. Es ist wichtig diese Dinge zu klären da es sonst zu Missverständnissen oder Problemen kommen kann. Deshalb sollte zu Beginn eines Projekts folgendes geklärt werden: eine Definition der wichtigsten Projektrollen, eine Beschreibung der wesentlichen Rollen der teammitglieder im Projekt, die Bildung des Projektteams, Darstellung der Projektaufbauorganisation und die Vereinbarung zum Informationsfluss im Projekt.
+
+Um eine Aufgabe im Projekt zu bewältigen empfiehlt es sich Teams innerhalb des Projekts zu bilden. Diese Teams nehmen sich dann einem Arbeitspaket (welches vorher im Projekt-Struktur-Plan festgelegt worden sind) an. Ein Team kann auch mehrere Arbeitspakete abarbeiten. Grundsätzlich muss man sich für diese Dinge entscheiden: Anzahl der Arbeitspakete, Anzahl und Art der Mitarbeiter pro Projekteinheit, Entscheidung über den Einsatzzeitpunkt bzw. den Einsatzzeitraum der jeweiligen Teammitglieder, ermittlung der Gesamtanzahl der benötigten Projektmitglieder um Projekt und die Verteilung des Einsatzes auf Projektphasen. Dies kann man mithilfe einer Tabelle realisieren.
+
+(Tabelle 7.1 S.4 Personalplanu
+
+Die Bildung eines Teams hängt von der zu erledigten Aufgabe ab so kann es sein das sich die Teams untereinander neu mischen und wieder entzweien, es hängt immer von der jeweiligen Kompetenz oder Spezialisierung des einzelnen ab.
+
+Diese Kompetenzen und Spezialisierung werden auch bei der Personalauswahl berückrichtigt. In der Traumvorstellung sucht sich ein Teamleiter sein Personal anhand von "Skills" aus. Hier werden neben diesen "Skills" auch auf Team- sowie Kounikationsfähigkeit geachtet. In der Praxis sieht dies allerdings so aus der Proektleiter in seiner Wahl mehr oder weniger eingeschränkt ist. Deshalb ist es umso wichtiger sein Projekt zu strukturieren und danach erst sein Personal zuzuordnen. 
+
+Die wichtigste Position im Projekt ist der Projektleiter, er ist verantwortlich für: das Erreichen der im Projektauftrag formulierten Projektziele, das Einhalten des festgelegten Zeit- und Kostenrahmens, den sach- und termingerechten Einsatz der Projektressourcen, das Bereitstellen der Projektergebnisse gemäß den gesetzten Qualitätsanforderungen.
+
+(Abbildung 7.2 S.8 Personal)
+
+Daraus folgt das dr Projektleiter der Hauptansprechpartner für das Projekt ist. Zumden ist er auch das Bindeglied zwischen Auftaggeber und dem Projektteam. Deshalb sind von den Projektleiter mehrere Kompetenzen gefordert.
+
+(Abbildung 7.3 S.9 Personal
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+IT-Projektteams - Teamentwicklung und Führung
+
+Bei der Teamplanung ist darauf zu achten das Synergieeffekte entstehen. Das heißt das sich die Kompetenzen der einzelnen Teammitglieder ergänzen. In der Praxis zeigt sich nämlich das ein erfolgreiches Projektteam sich nicht anhand von erzielten Leistungen messen sondern auch in deren Möglichkeiten ein bestimmtes Ziel zu erreichen. So ist eine gute Teamharmonie genauso anzustreben wie die Fachliche Kompetenz. Um eine Teamentwicklung zu gewährleisten gibt es fünf Phasen die sich über die Jahre ethabliert haben. 
+
+(Tabelle 19.3 19.1 S.6 Teamentwischjadciawdf
+
+In diesen unterschiedlichen Phasen wird der Teamleiter unterschiedlich gefordert. 
+Im laufe einer Teamentwicklung kann es zu verschiedenen Störungen kommen. Diese Störungen sind z.b. Interesselosigkeit der Teammitglieder bei der Bearbeitung der Teamaufgabe, Fehlendes Engagement und Verweigerung der Übernahme von Verantwortung oder Unentschlossenheit bei der Entscheidungsfindung, Konflikte zwischen Teammitgliedern oder Stresssituationen bei Mitarbeitern. Um auf diese Sachen zu reagieren muss zunächst eine Ursachenanalyse gemacht werden. Ursachen können sein: Kompetenzprobleme, Entscheidungsprobleme, Kommunikationsprobleme, Informationsprobleme, Organisationsprobleme, Rollenkonflikte oder Beziehungsprobleme. Sollte eines der genannten Probleme auftreten liegt es an dem Projektleiter eine Lösung zu finden, um das Problem zu lösen.
+
+Eine wichtige Aufgabe der Projektleitung ist es, die skizzierte Teamentwicklung im Hinblick auf das Erreichten der Projektziele zu steuern. Der Projektleiter muss das Team so zu sagen formen. Daher gibt es Maßnahmen zur Förderung von Teamentwicklungsprozessen. Dazu gehört das die Merkmale von Top-Teams selbst vorbildlich zu verkörpern und das Team in regelmäßigen Abständen zu motivieren.
+
+IT-Projekte zeichnen sich immer duch eine relative Neuartigkeit hinsichtlich der angestrebten Ergebnisse aus. Ziel der Projektleitung muss es deshalb sein ein positives Innovationsklima zu schaffen. Dies erhöht nicht nur dich Produktionsqualität sondern es wird auch in gewissen Maßen an Zeit gespart. Hierfür gibt es so genannte "Goldene Innovationsregeln".
+
+(Tabelle 19.4 S.13-14 Teamentwicklung)
+
+Um die Qualität der Proketteamarbeit zu evaluieren und zu verbessern kann ein Fragebogen an die Projektteilnehmer verteilt werden.
+
+(Abbildung 19.3 S.16 Teamawdawd
+
+Anhand einer solchen Umfrage können bei negativen Werten entsprechend Maßnahmen getroffen werden. Zudem können so Anregungen zur Optimierung gefunden werden.
+ 
+Damit möglich Probleme gar nicht erst auftreten, ist es die Aufgabe des IT-Projektleiters, eine förderliche Teamkultur aufzubauen und durch entsprechende Maßnahmen den Wirkungsgrad des Projektteams zu erhöhen.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Aufwandsschätzung in IT-Projekten
+
+Zur Erstellung eines Kostenplans und zur Wirtschaftlichen analyse ist es erforderlich das man den Aufwand seines Projekts abschätzt. Im großen ganzen lässt sich sagen das sich Projektkosten aus Personalkosten + Hardwarekosten + Softwarekosten + Overhead-Kosten zusammensetzten. Desweiteren ist es für die Kostenübersicht wichtig sich darüber klar zu sein welche Art von Projekt man hat. Projekte unterscheiden sich in: denen die Kosten nach Aufwand zu tragen sind, denen die Kosten fixiert sind und denen ein Teil der Kosten nach Aufwand und ein Teil nach Festpreis bestimmt sind. Je nachdem ergibt sich auch der Kostenplan für das eigene Projkt. 
+
+Der zweite Zweck einer Aufwandabschätzung ist das Sammeln der Daten für ein Festpreisangebot. Da immer mehr Projekte nach außen vergeben werden ist es wichtig für sich selbst eine Aufwandabschätzung zu machen um den entsprechenden Preis einzuschätzen. 
+
+Ein dritter Zweck ist der das die minimale Projektlaufzeit ermittelt werden kann. Das kann wichtig sein da, wenn ein Produkt nicht bis zu einem bestimmten Termin zur Verfügung steht, verliert es an Wert. Wenn man also schon früh sieht das ein Produkt nicht rechtzeitig fertig werden würde, kann man Kosten und Zeit sparen indem man es nicht realisiert.
+
+Der vierte Zweck ist die Ressourcenbedarfsermittlung. Durch ermittlung des Aufwands können Aussagen über benötigtes Personal, Computer, Materialien etc.. 
+
+Der fünfte Zweck der Auwandsabschätzung ist die Bereitstellung eines Maßstabs, mit dem man den Projektfortschritt messen kann. So erhält man beim Vergleich von zwei abgeschätzten Projekten einen Vergleichswert. So könnte man sich entscheiden welches Projekt realisiert werden soll.
+
+Jedoch bevor das eigentliche Schätzungsverfahren beginnt gilt es nahezu unzählige Faktoren zu beachten. Zu diesen Faktoren zählen selbst dinge wie den Biorythmus der Mitarbeiter oder die zur verfügung stehenden Werkzeugausstattung. Desweiteren gibt es verschiedene Projekttypen: Prototypprojekte, Entwicklungsprojekte, Weiterentwicklungsprojekte, Wartungsprojekte, Sanierungsprojekte,Installationsprojekte, Migrationsprojekte und Integrationsprojekte die es zu beachten gibt. Die Zuordnung in eines von diesen genannten IT-Projekten ist für die Aufwandabschätzung unabdingbar.
+
+-Prototypprojekte sind Entwicklungsprojekte, bei denen das Ziel der Entwicklung nicht bekannt ist. Daher es nahezu nicht möglich deren Aufwand 	Abzuschätzen.
+
+-Entwicklungsprojekte sind im Gegensatz zu Prototypenprojekten spezifiziert. Da vorher beschreiben wird was gefordert ist, ist es leichert den Aufwand zu indentifizieren.
+
+-Weiterentwicklungsprojekte gehen von einem bestehenden IT-System aus. Hier werden zusätzliche Funktionen in das bestehende System eingebaut. Es ist durchaus möglich hier einen Aufwand abzuschätzen wenn es genaue Anforderungen gibt die, die Weiterentwicklung spezifizieren.
+
+-Wartungsprojekte werden vorgenommen, um ein bestehendes IT-System nachzubessern und/oder zu ändern. Der Aufwand ist bei solchen Projekten nur selten vorherzusehen da meist unbekannte Probleme auftreten.
+
+-Sanierungsprojekte sind einmalige, zeitlich und kostenmäßig begrenzte Anstrengungen, bestehende IT-Systeme zu renovieren, damit man mit ihnen leichter umgehen kann. Sie sollen perfomanter, wartungsfreundlicher und wiederverwendbarer werden. Solche Projekte werden anhand des geschätzten Codes beurteilt. In der Praxis ist dies nicht immer ganz einfach, da unerwartete Fehler im System auftreten können.
+
+-Migrationsprojekte sind hingegen zeitlich und kostenmäßig begrenzte Anstrengungen, bestehende IT-Systeme in eine andre technische Umgebung zu versetzen. Beispielsweise wird die Programmiersprache in einem System getauscht. Der Aufwand wird ähnlich wie beim Sanierungsprojekt in Code Zeilen geschätz.
+
+-Integrationsprojekte zielen darauf hin, bestehende IT-Systeme miteinander oder ein neues System in einen Verbund bestehender Systeme zu integrieren. Immer mehr Anwender verfügen über einen Verbund von IT-Systemen. Solche Projekte haben eine eigene Gesetzmäßigkeit und dürfen mit normalen Entwicklungsprojekten nicht verglichen werden, da sie über weit mehr technischen Know-how, anspruchsvolle Wekzeuge und einen großen Testaufwand haben.
+
+-In Installationsprojekten werden Standart-IT-Produkte in einen Anwenderbetrieb organisatorisch und technisch eingeführt. Hierbei lässt sich der Aufwand sehr gut abschätzen.
+
+Ein weiterer Faktor ist die Projektarbeitsbedingung. Das bedeutet in wie weit Büroräume, Material etc. benötigt wird oder schon zur Verfügung steht. So benötigt man keinen Zeit/Kosten wenn alle Mittel noch vom letzten Projekt zur Verfügung stehen.
+
+Der nächste Faktor sind die Projektwerkzeuge, sie spielen eine entscheidene Rolle, vor allem bei bestimmten Projekttypen wie Sanierungs oder Integrationsprojekten. Als einfaches Beispiel je schneller der PC ist desto schneller lässt sich benötigte Software installieren und umso schneller kann man damit arbeiten.
+
+Der jedoch entscheidenste Faktor ist das Personal. Die Schwierigkeit liegt allerdings in der Produktivitätsmessung von einem Mitarbeiter. Die Produktivität setzt sich wie folgt zusammen Produktivität = (Quantität x Komplexität x Qualität) / Aufwand. Ein Beispiel: Ein Projekt das 20 Personenmonate gekostet hat und einen Ergebnis von 10 000 Anweisungen mit einem Komplexitätsfaktor von 1,2 und einem Qualitätsfaktor von 0,9 hat, gleich 540 Anweisungen pro Personenmonat. Das Problem bei einer solchen Berechnung ist, wie bestimmt man einen Komplexitätsfaktor oder einen Oualitätsfaktor? Hier liegt das Problem bei dieser Art der Aufwandabschätzung, diese Werte sind reine Ermessenssache. 
+
+Die David-Consulting-Gruppe hat Produktivitätsdaten in Function-Points gesammelt. Daran ist zu sehen, dass die Produktivität zwischen 9 und 25 Function-Points pro Personenmonat variiert. Also haben die Tätigkeiten schonmal von Grund auf andere Faktoren die zu Messung mit einbezogen werden müssen.
+
+(Tabelle 9.1 S.12 Aufwand
+
+Festzuhalten ist das die Messung einer Person gar nicht so einfach zu erfassen ist, es hängt zum einen von der geforderten Tätigkeit aber auch von der Person selber ab.
+
+Was bleibt, ist die Frage, wie man die Größe eines IT-Vorhabens misst. Um eine Produktgößenmessung zu machen kann man unterschiedlich vorgeben. Man kann nach Codezeile, Codeanweisungen, Function Points, Data-Points, Object-points, Use-Case-Points und Story-Points Schätzen.
+
+Die Codezeilen Schätzung erfolgt so, dass wie erwartet die benötigten Codezeilen geschätzt werden. Es wurde eine folgende Formel aufgestellt: Größe (in Zeilen) = (Aufwand)^1/3 x (Zeit)^4/3 x Produktivität. Diese Methode ist jedoch vergleichsweise sehr "alt" und ungenau da die Produktivität wieder ein Faktor ist der persönlich zu bewerten ist. 
+
+Die Schätzung nach Codeanweinsung enstand dadurch das mehere Projekt angeschaut wurden. Aus diesen Projekten wurden die am Ende vom Projekt ausgelieferten Anweisungen gezählt - Kilo delivered source instructions = KDSI. Diese KDSI werden benötigt um den Aufwand des Projekts abzuschätzen. Es enstanden mehere Formeln wie Aufwand = 2,4 (KDSI)^1,05. Der Faktor 2,4 ist ein Justierungsfaktor der je nach Systemtyp einzustellen ist. Bei dem Beispiel steht 2,4 für standalone, monoitgische Anwendungen. Im laufe der Zeit veränderte sich die Formel für verschiedne Bedürfnisse. So enstand  der so gennante COCOMO-II-Schätzugsalgorithmus, doch auch dieser war zu ungenau.
+
+(Abbildung 9.3 S.16 Aufwand.)
+
+Nachdem die Probleme der Codemessung erkannt wurden, entschied man sich für eine Schätzung mit Function-Points. Das Prinzip dabei war Punkte für bestimmte Datenbewegungstypen zu vergeben. Doch heute schein diese Methode rätselhast da Ausgabe nicht gleich Ausgabe ist.
+
+(Tabelle unter 9.4 S.17 Aufwand.)
+
+Die Schätzung nach Data-Points enstand in den 1980er-Jahren. Da in dieser Zeit Datenbanken immer interessanter wurden musste man diese mit in die Aufwandsabschätzung mit einbeziehen. Es entstand das folgende Data-Point-methoden Modell von Harry M. Sneed.
+
+(Abbildung 9.5 S.19 Aufwand.)
+
+Diese Methode ging von informationen aus, die man dem Datenmodell entnehmen konnte. Sichtbar waren die Datenentitäten und zumindest ein Teil ihrer Attribute, dieSchlüssel der Datenentitäten, die Beziehung der Datenentitäten untereinander und die Sichten auf die Datenentitäten und der Großteil ihrer Attribute. Es bleibt nur übrig, diese sichtbaren Datenelemente auf Grund ihrer Komplexität zu Gewichten. Diese Gewichtung ist aber nur aufgeteilt in 2=niedrig, 4=mittel oder 8=hoch. Dies ist wesentlich besser als die vorher genannten Schätzungsmethoden. So Die Data-Points des Datenmodells werden als Information-Points, die der Benutzeroberfläche als Communications-Points bezeichnet. Diese können wir folgt berechnet werden Informations-Points = Summe der Entitäten[Attribute + (Schlüssel x 4) + (Beziehung x 2)] und Communication-Points = Summe von Sicht [Attribute + (2,4,8) +(Beziehungen)].
+
+Eine weitere Art ist die Schätzung nach Object-Points. Diese Methode wiegt die Bestandzeile von Modellen. Die Punktevergabe sieht aus wie folgt: In den Klassendiagrammen wiegt:
+jede Klasse = 4, jedes nicht geerbte Attribut = 1, jede nicht geerbte Methode = 3, jede Klassenassoziation = 2.
+In den Sequenzdiagrammen wiegt: jede Nachricht = 2, jeder Parameter = 1, jeder Sender = 2, jeder potenzielle Empfänger = 2.
+
+(Abbildung 9.6 S.22 Aufwands.)
+
+In den use-Case-Diagrammen wiegt: jeder Online-Anwendungsfall = 2 x Anzahl der Ausgänge, jeder Batch-Anwendungsfall = 4 x Anzahl der Ausgänge, jeder Systemanwendungsfall = 8 x Anzahl der Ausgänge. 
+Hinzu kommen eine komplexitätsbewertung für jede Klasse, jede Nachricht und jeden Anwendungsfall, wonach ;
+niedrige Komplexität = 75% der Object-points
+mittlere Komplexität = 100% der Object-points
+hohe Komplexität = 125% der Object-points
+ergeben.
+
+Schließlich folgt der Wiederverwendungsgrad. Die Object-Points von wiederverwendeten Klassen, Nachichten und Anwendungsfällen werden nur mit dem Prozenanteil gezählt, mit dem das Element nucht wiederverwendet wird. Zum Beispiel wiegt eine Klasse mit 20 Object-Points, die zu 60% wiederverwendet wird(d.h. nur 40% des Codes kommen neu hinzu), nur 60% der Klasse bzw. 12 Obejct-Points bestehen schon. Diese Einbeziehung des Wiederverwndungsanteils auf der elementaren Stufe ust gerade bei der Objektorientiierung von besonderer Bedeutung.
+
+Die Use-Case-Methode für die Schätzung einer Softwareentwicklung enstand im Jahr 1993. Eine Schätzung nach der Use-Case-point-Methode vollzieht sich in fünf Schritten: Klassifizierung der Systemakteure, Gewichtung des Anwendungsfalls, Justierung der rohen Use-Case-Points-Zahl durch produktbezogene Einflussfaktoren, Umsetzung der justierten Use-Case-Points in Personenaufwand. Im ersten Schritt werden die Systemschnittstellen in drei Klassen geteilt: einfache Systemschnittstellen, mittelkomplexe Systemschnittstellen und komplexe Systemschnittstellen. Als nächstes werden die Anwendungsfälle nach Komplexitätsstufen gewichtet (Unadjusted Use Case Weight (UCCW)). 
+
+(Abbildung 9.7 S.24 Aufwandsab)
+
+Der dritte Schritt in der Use-Case-Point-Methode ist die Justierunf der Systemgröße in rihen Use-Case-Points durch die65  Produkteinflussfaktoren. TCF = 0,65 + [0,01 x TF] TF = Summe der Gewichtung der produktbezogenen Einflussfaktoren. ECF = 1,35 - [0,02 x EF)] EF = Summe der Gewichte der projektbezogenen Einflussfaktoren. UCP = UUCP x TCF x ECF. UUCP = rohe Use-Case-Points. Am Ende wird alles zusammen gerechnet. Aufwand = UCP x Produktivität. Produktivität = Arbeitsstudne pro Use-Case-Point. Use-Case-Points werden gezählt, wenn die Use-Cases in dem Anforderungsdokument spezifiziert sind.
+
+Die letzte Schätzungsmethode geht mit Story-Points, diese eignet sich besonders für agile Softwareentwicklung. Story-Points beziehen sich nicht auf die Eigenschaften des Produkts, sie beziehen sich auf die relative Produktivität des Teams. Es gibt keine genaue definierung fü die Story-Points, es geht darum das eine Arbeitsgruppe an ihren bisherigen Projekten gemessen wird. Als Beispiel wenn ein Team mit einem Projekt 10 Monate beschäftigt ist, wird es für ein ähnliches Projekt auch wieder 10 Monate dauern.
+
+Um nun ein Größenmaß zu bestimmen müssen wir den Projekttyp kennen und dann können wir darauf eines der gennanten Schätzungsmethoden anwenden. Für jeden Projekttyp empfhelen sich ein oder mehr Schätzungsmethoden.
+
+Prototypprojekt = Story-Points
+Entwicklungsprojekt = Use-Case-Points, Obejct-Points und Codeanweisungen
+Weiterentwicklungsprojekte = Codeanweisungen und Obejct-Points
+Wartungsprojekte = Codezeilen, Codeanweisungen und Obcejt-Points
+Sanierungsprojekte = Codezeilen, Codeanweisungen und Obcejt-Points
+Migrationsprojekte = Codeanweisungen, Obcejt-Points und Data-Points
+Integrationsprojekte = Object-Points und Data-Points
