@@ -10,6 +10,7 @@ Organisation Meilensteinbeispiele 	|26.10. |	30 Min.
 Zusammenfassung IT-Projektteams Teamentwicklung und Führung 625 - 661 |	26.10. |	180 Min.
 Zusammenfassung Statusueberwachung & Projektsteuerung 315 - 348 |	26.10. |	180 Min.
 Planung roter Faden |	04.11. |	90 Min.
+Besprechung 3 |	28.11. |	45 Min.
 Planung Ausarbeitung | 11.11 | 150 Min.
 Ausarbeitung global verteilte | 17.11 | 180 Min.
 Ausarbeitung global verteilte | 18.11 | 240 Min.
@@ -18,4 +19,5 @@ Ausarbeitung Agiles IT-Projektmanagement | 20.11 | 180 Min.
 Ausarbeitung IT-Projekte erfolgreich managen | 22.11 | 300 Min.
 Ausarbeitung Prozessorientiertes Projektmanagement | 23.11 | 300 Min.
 Ausarbeitung Risikomanagement | 23.11 | 60 Min.
-Summe |	26.10. |	2880 Min.
+Besprechung 4 |	28.11. |	45 Min.
+Summe |	26.10. |	2970 Min.
