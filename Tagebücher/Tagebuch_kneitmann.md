@@ -20,4 +20,5 @@ Ausarbeitung IT-Projekte erfolgreich managen | 22.11 | 300 Min.
 Ausarbeitung Prozessorientiertes Projektmanagement | 23.11 | 300 Min.
 Ausarbeitung Risikomanagement | 23.11 | 60 Min.
 Besprechung 4 |	28.11. |	45 Min.
-Summe |	26.10. |	2970 Min.
+Einpflegen der Ausarbeitungen in Docsify | 03.12. | 30 Min.
+Summe |	26.10. |	3000 Min.
