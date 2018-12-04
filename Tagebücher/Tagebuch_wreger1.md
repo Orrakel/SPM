@@ -11,4 +11,6 @@ Team Ausarbeitung Rote Linie | 11.11 | 180 Min
 Ausarbeitung akteull zum Projekt | 24.11 | 300 Min
 Ausarbeitung aktuell zum Projekt | 25.11 | 180 Min
 Ausarbeitung aktuell zum Projekt | 26.11 | 120 Min
-Summe| 23.10. |1395 Min.
+Markdown einlesen und bearbeiten | 03.11 | 30 Min
+Markdown verbessern und ausarbeiten | 04.11 | 60 Min 
+Summe| 23.10. |1485 Min.
