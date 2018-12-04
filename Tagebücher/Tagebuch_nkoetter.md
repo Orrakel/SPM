@@ -17,5 +17,5 @@ Docsify erstellung + Einarbeitung in Markdown | 25.11. | 300 Min.
 Besprechung 6 | 27.11. | 45 Min.
 Erstellung "Meilensteine" für die Ausarbeitung | 30.11. | 30 Min.
 Erstellung "Git" für die Ausarbeitung | 02.12. | 180 Min.
-Git requests annehmen + ggf. reparieren etc | 04.12. | 60 Min.
+Git requests annehmen + ggf. reparieren etc. | 04.12. | 60 Min.
 Summe | 26.10. | 1720 Min.
