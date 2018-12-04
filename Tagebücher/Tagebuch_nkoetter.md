@@ -12,4 +12,9 @@ Git und docsify | 03.11. | 180 Min.
 Roter Faden erstellen | 04.11. | 90 Min.
 Besprechung 4| 06.11. |45 Min.
 Roten Faden vervollständigen| 11.11. |150 Min.
-Summe | 26.10. | 1060 Min.
+Besprechung 5 | 13.11. | 45 Min.
+Docsify erstellung + Einarbeitung in Markdown | 25.11. | 300 Min.
+Besprechung 6 | 27.11. | 45 Min.
+Erstellung "Meilensteine" für die Ausarbeitung | 30.11. | 30 Min.
+Erstellung "Git" für die Ausarbeitung | 02.12. | 180 Min.
+Summe | 26.10. | 1660 Min.
