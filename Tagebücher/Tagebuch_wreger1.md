@@ -15,4 +15,5 @@ Markdown einlesen und bearbeiten | 03.12 | 30 Min
 Markdown verbessern und ausarbeiten | 04.12 | 60 Min
 Besprechung | 04.12 | 45 Min
 Besprechung | 11.12 | 150 Min
-Summe| 23.10. |1680 Min.
+Korrektur von anderen Texten | 17.12 | 90 Min
+Summe| 23.10. |1770 Min.
