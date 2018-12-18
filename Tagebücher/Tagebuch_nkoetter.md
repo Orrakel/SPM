@@ -18,5 +18,6 @@ Besprechung 6 | 27.11. | 45 Min.
 Erstellung "Meilensteine" für die Ausarbeitung | 30.11. | 30 Min.
 Erstellung "Git" für die Ausarbeitung | 02.12. | 180 Min.
 Git requests annehmen + ggf. reparieren etc. | 04.12. | 60 Min.
+Besprechung 7 | 11.12. | 45 Min.
 Ausarbeitung weiter schreiben | 17.12. | 240 Min.
-Summe | 26.10. | 1960 Min.
+Summe | 26.10. | 2005 Min.
