@@ -20,6 +20,10 @@ Kapitel 11 Zusammenfassung ueberarbeitet | 24.11. | 90 Minuten
 Besprechung 6| 27.11. |45 Minuten
 Kapitel 2 Ausgearbeitet | 02.12. | 180 Minuten
 Kapitel 13 Ausgearbeitet | 05.12. | 180 Minuten
-Kapitel 3 Ausgearneotet | 09.12. | 180 Minuten
+Kapitel 3 Ausgearbeitet | 09.12. | 180 Minuten
+Kapitel 2 in Markdown überführt | 11.12. | 15 Minuten
 Besprechung 8| 11.12. |45 Minuten
-Zeit insgesammt | 11.12. | 2130 Minuten
+Informationsmanagement Ausgearbeitet & in Markdown überführt | 14.12. | 195 Minuten
+Statusüberwachung Ausgearbeitet & in Markdown überführt | 17.12. | 115 Minuten
+Letzte Korrekturen an den Kapiteln| 18.12. | 30 Minuten
+Zeit insgesammt | 18.12. | 2485 Minuten
