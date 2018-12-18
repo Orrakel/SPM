@@ -6,5 +6,3 @@ https://github.com/Orrakel/SPM_Docsify
 
 
 remark jayce Presi
-
-in die README wer hat was geschrieben und Quellen
