@@ -13,3 +13,4 @@ Planung roter Faden | 4.11. | 90 Minuten
 Ausarbeitung Marketing | 23.11. | 2 Stunden
 Ausarbeitung Marketing | 24.11. | 3 Stunden
 Ausarbeitung Marketing | 25.11. | 3 Stunden
+Ausarbeitung überarbeitet | 18.12. | 1 Stunde
