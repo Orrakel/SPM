@@ -21,4 +21,4 @@ Git requests annehmen + ggf. reparieren etc. | 04.12. | 60 Min.
 Besprechung 7 | 11.12. | 45 Min.
 Ausarbeitung weiter schreiben | 17.12. | 240 Min.
 Remark js erstellen | 02.01. | 60 Min.
-Summe | 26.10. | 2005 Min.
+Summe | 26.10. | 2065 Min.
