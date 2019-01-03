@@ -1,3 +1,4 @@
+
 ﻿Was wurde gemacht? | Wann? | Wie lange?
 --- | --- | ---
 Besprechung 1 Teambildung |	16.10.18 |	45 Min.

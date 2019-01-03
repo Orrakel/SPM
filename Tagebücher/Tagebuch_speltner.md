@@ -6,4 +6,4 @@ Bearbeitung des ersten Kapitels | 22.10. | 45 Min.
 Besprechung 2| 23.10. |45 Min.
 Lesen der Pflichlectuere | 27.10. | 120 Min.
 Erstellung des Tagebuchs | 28.10. | 20 Min.
-  
+Fertigstellung der Texte | 17-18.12. | 720 Min.
