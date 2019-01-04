@@ -21,5 +21,7 @@ Ausarbeitung IT-Projekte erfolgreich managen | 22.11.18 | 300 Min.
 Ausarbeitung Prozessorientiertes Projektmanagement | 23.11.18 | 300 Min.
 Ausarbeitung Risikomanagement | 23.11.18 | 60 Min.
 Besprechung 4 |	28.11.18 |	45 Min.
+Einpflegen der Paesentation in Docsify | 02.01.19 | 30 Min
 Ausarbeitung Praesentation | 02.01.19 | 180 Min.
-Summe |	26.10. |	3150 Min.
+Testlauf Praesentation | 04.01.19 | 180 Min
+Summe |	26.10. |	3360 Min.
