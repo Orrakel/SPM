@@ -10,4 +10,7 @@ Multiprojektmanagement für IT-Projekte zusammengefasst | 2.11. | 3 Studen
 Stakeholder-Management für IT-Projekte zusammengefasst | 4.11. | 1 Stunde
 Compilance in und von IT-Projekten zusammengefasst | 4.11. | 2 Studen
 Planung roter Faden | 4.11. | 90 Minuten
-
+Ausarbeitung Marketing | 23.11. | 2 Stunden
+Ausarbeitung Marketing | 24.11. | 3 Stunden
+Ausarbeitung Marketing | 25.11. | 3 Stunden
+Ausarbeitung überarbeitet | 18.12. | 1 Stunde
